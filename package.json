@@ -1,7 +1,7 @@
 {
-  "name": "d1119-hemlibra-portal",
+  "name": "forex",
   "version": "1.0.0",
-  "description": "Roche Hemlibra Portal",
+  "description": "",
   "main": "index.js",
   "engines": {
 	"node": ">=5.7.0",
